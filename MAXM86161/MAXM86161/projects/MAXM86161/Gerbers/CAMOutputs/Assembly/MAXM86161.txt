@@ -1,0 +1,9 @@
+Partlist exported from C:/Users/Matteo Verzeroli/Desktop/MAXM86161/MAXM86161.sch at 02/05/2021 13:51
+
+Qty Value         Device        Package                     Parts  Description BUILT_BY    COPYRIGHT                                                   MANUFACTURER_PART_NUMBER SOURCELIBRARY    VENDOR                   
+2   1u            C0402         C0402                       C2, C3                                                                                                                                                        
+1   4.7u          C0603         C0603                       C1                                                                                                                                                            
+1   LIS2DW12      LIS2DW12      LIS2DW12_LGA-12_2X2X0P7_STM U2                                                                                                                                                            
+1   MAXM86161EFD+ MAXM86161EFD+ 21-100309A_MXM              U1                 EMA_Rebekah Copyright (C) 2018 Accelerated Designs. All rights reserved MAXM86161EFD+            Maxim_2019-09-13 Maxim Integrated Products
+1   PAD_2         PAD_2         PAD_2                       U$1    PADs                                                                                                                                                   
+1   PAD_3         PAD_3         PAD_3                       U$2                                                                                                                                                           
